@@ -3,7 +3,7 @@ spring:
     driver-class-name: com.mysql.jdbc.Driver
     url: jdbc:mysql://localhost:3306/news
     username: root
-    password: 12315.qq10
+    password: 12315.qq
     type: com.alibaba.druid.pool.DruidDataSource
     druid:
       initial-size: 5
