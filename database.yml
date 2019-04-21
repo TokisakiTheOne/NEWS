@@ -28,9 +28,6 @@ spring:
         enable: true
       stat-view-servlet:
         enabled: true
+        #druid控制台的用户名和密码
         login-username: druid_admin
         login-password: 123456
-#logging:
- # level:
-  #  com:
-   #   lynn: DEBUG
